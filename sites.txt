@@ -1,1 +1,1 @@
-["example.com","fidgetland minigames and more","examword"]
+["example.com", "fidgetland minigames and more", "examword"]
